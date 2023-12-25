@@ -6,7 +6,7 @@ _Software engineer with 7+ year of experience based in Poland, Wroclaw 🇵🇱_
 
 ## 🤹🏻‍♂️ Engineering Experience
 
-**Senior Frontend Engineer** @ [BRYTER](https://www.plentific.com/en-us/) _(Apr 2021 - Present)_ <br>
+**Senior Frontend Engineer** @ [Plentific](https://www.plentific.com/en-us/) _(Apr 2021 - Present)_ <br>
 A real-time property operations platform that connects owners, operators, service providers, and tenants on a single platform.
   - Take active role in API design and feature analysis sessions
   - Playing a significant role in eliminating tech debt (e.g. JavaScript to TypeScript, formsy to formik conversions, migrating to the new schema generation approach)
