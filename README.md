@@ -27,13 +27,7 @@ Supply chain platform optimizing performance and providing intelligence across p
 - Provided technical expertise in API design and feature analysis discussions, ensuring alignment with project goals and user requirements with focus in UX and code standards
 - Take active part in company's component library support
 - **_Technologies used:_** NodeJS, GraphQl, PostgreSQL, React, TypeScript, Tailwind CSS
-  <br>
-
-**Achievenents and success stories**
-
-- Architected and delivered offline capabilities for essential app functionalities
-- Modernized core codebase through refactoring to enhance future feature integration
-- Consistently met aggressive deadlines while maintaining high coding standards for feature implementation
+- **_Achievenents:_** Architected and delivered offline capabilities for essential app functionalities; Modernized core codebase through refactoring to enhance future feature integration; Consistently met aggressive deadlines while maintaining high coding standards for feature implementation  
   <br>
 
 **Frontend Engineer** @ [Adform](https://site.adform.com) _(Dec 2017 - Aug 2019)_, Hybrid <br>
